@@ -1,0 +1,10 @@
+*.class
+*.war
+*.ear
+/.settings/
+/target/
+/bin/
+/.idea/
+/.vscode/
+*.iml
+.DS_Store
